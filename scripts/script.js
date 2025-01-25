@@ -88,3 +88,16 @@ const weekDays = 7
 console.log(weekDays)
 
 //the constant(const) is always the same.
+
+
+
+
+
+
+
+
+
+
+
+
+
