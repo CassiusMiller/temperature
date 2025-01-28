@@ -1,0 +1,17 @@
+/*assignment2*/
+
+.body{
+    background-color: grey;
+    background-position: center, center;
+    background-size: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 150px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.button{
+    padding: 20px;
+}
