@@ -66,7 +66,7 @@ function ticketCalculator(){
     return "Your ticket price is: $" + price;
 }
 
-
+/* p.classList.add adds a class from css & p.classList.remove removes that class*/
 function clothingTemp(){
     let temp = prompt("Enter the temp");
     let outfit
