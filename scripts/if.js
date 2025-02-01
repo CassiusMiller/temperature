@@ -86,3 +86,10 @@ function clothingTemp(){
         }
     p.innerHTML=`you should ${outfit}`
 }
+
+
+
+
+
+
+

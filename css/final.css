@@ -1,0 +1,42 @@
+header{
+    background-color: grey;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+.converter{
+    display: grid;
+    grid-template-rows: repeat(1, 1fr);
+    grid-template-columns: repeat(5, 1fr)
+
+}
+.sun{
+    grid-column: 2; 
+    grid-row: 1; 
+    border-radius: 50%;
+}
+.snow{
+    grid-column: 4;
+    grid-row: 1;
+    border-radius: 50%;
+}
+.p{
+text-align: center;
+}
+img{
+    width: 250px;
+    height: 250px;
+    justify-content: center;
+}
+.con{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
